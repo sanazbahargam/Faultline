@@ -42,4 +42,4 @@ prefers to put similar individuals in the same groups. Note that while creating 
 individuals results in a low faultline score, this method fails to recognize that diverse teams can
 also have a good faultline score, and thus has far more limited options to lower the faultline score.
 
-An implementation of all these techniques can be found [here]().
+An implementation of all these techniques can be found [here](https://github.com/sanazb/Faultline/blob/master/fautline_algs.py).
